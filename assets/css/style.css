@@ -1,0 +1,35 @@
+.yellow {
+  background-color: yellow;
+  height: 80px;
+  margin: 5px solid white;
+}
+
+.green {
+  background-color: rgb(118, 252, 65);
+  height: 80px;
+  margin: 5px solid white;
+}
+
+.turquoise {
+  background-color: turquoise;
+  height: 80px;
+  margin: 5px solid white;
+}
+
+.darkTurquoise {
+  background-color: rgb(44, 141, 109);
+  height: 80px;
+  margin: 5px solid white;
+}
+
+.purple {
+  background-color: purple;
+  height: 80px;
+  margin: 5px solid white;
+}
+
+.pink {
+  background-color: fuchsia;
+  height: 80px;
+  margin: 5px solid white;
+}
